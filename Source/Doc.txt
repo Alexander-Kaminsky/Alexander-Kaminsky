@@ -1,3 +1,6 @@
+Project Participants: Alexander Kaminsky, Risya Zevulun
+                  id:318244530        id:337775753
+
 Interpreter Documentation
 1. BNF Grammar
 The BNF (Backus-Naur Form) grammar describes the syntax of the language implemented by the interpreter. It includes basic constructs such as statements, expressions, loops, and function definitions.
