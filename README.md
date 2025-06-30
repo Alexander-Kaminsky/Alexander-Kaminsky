@@ -32,6 +32,7 @@ Projects with clean, modular code and thoughtful documentation
 Feel free to explore, clone, or reach out—I'm always open to feedback, collaboration, or opportunities to grow as a developer.
 
 ## ⭐ Check out the pinned projects below for my latest work!
+### if it's not here, it's being updated soon! i am currently cleaning up and uploading my projects and works
 <!--
 **Alexander-Kaminsky/Alexander-Kaminsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
