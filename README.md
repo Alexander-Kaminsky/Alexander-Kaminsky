@@ -47,7 +47,9 @@
 <div align="center">  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img style="margin: 10px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="ESP32" height="50" />
+<a href="https://www.espressif.com/en/products/socs/esp32"><img style="margin: 10px" src="./assets/esp32.svg" alt="ESP32" height="50" /></a>
+</div>
+
 </a>
 
 </div>  
@@ -80,7 +82,7 @@
 ## GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Kaminsky&size_weight=0&count_weight=0.4&langs_count=8&hide=javascript,css,html,makefile&layout=compact" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Alexander-Kaminsky&layout=compact" />
 </div>
 
 <br/>
